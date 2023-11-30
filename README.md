@@ -33,7 +33,7 @@ This is My first large  game i ever made.
 
 ## Documentation
 
-[Game-Link](https://sancky-snake.netlify.app)
+[Game-Link is not working due to netlify issue](https://sancky-snake.netlify.app)
 
 
 ## Features
